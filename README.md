@@ -121,7 +121,7 @@ dripos-demo/
 │       └── main.go           # Main entrypoint with selection menu
 ├── internal/
 │   ├── models/               # Shared type definitions
-│   │   └── types.go
+│   │   └── models.go
 │   ├── payment/              # Payment processor implementation
 │   │   └── processor.go
 │   ├── menu/                 # Menu cache implementation
